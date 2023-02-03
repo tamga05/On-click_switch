@@ -1,0 +1,36 @@
+body {
+    background: #aaa;
+}
+
+#box {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+
+    /*padding: 10px 15px 20px 25px;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+
+.view {
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    transition: all .5s ease-in;
+    opacity: 0;
+    text-decoration: line-through;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+
+.father {
+    font-size: 2rem;
+}
+
+.son {
+    font-size: 200%;
+}
