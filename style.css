@@ -6,13 +6,16 @@ body {
     width: 150px;
     height: 150px;
     background-color: red;
-
     /*padding: 10px 15px 20px 25px;*/
     cursor: pointer;
     display: flex;
     justify-content: center;
     align-items: center;
     font-weight: bold;
+}
+
+#box:active {
+    outline: 2px solid white;
 }
 
 .view {
@@ -27,6 +30,9 @@ body {
     align-items: center;
     font-weight: bold;
     margin-left: 150px;
+    outline: 2px solid white;
+    border-radius: 50%;
+    cursor: pointer;
 }
 
 .father {
