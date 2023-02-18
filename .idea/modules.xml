@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/On-click_switch.iml" filepath="$PROJECT_DIR$/.idea/On-click_switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/On-click_switcher.iml" filepath="$PROJECT_DIR$/.idea/On-click_switcher.iml" />
     </modules>
   </component>
 </project>
